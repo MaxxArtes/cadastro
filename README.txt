@@ -133,5 +133,3 @@ Aqui você encontrará informações sobre como instalar, configurar e utilizar 
 
    - Buscar pessoas pelo nome:
      GET http://localhost:8080/api/pessoas/por-nome/João
-
-OBS: OS TESTE UNITARIOS NÃO FORAM IMPREMENTADOS PELA FALTA DE DISPONIBILIDADE DE TEMPO, PRIORIZEI O FUNCIONAMENTO DA API E A DOCUMENTAÇÃO DO SWAGGER
